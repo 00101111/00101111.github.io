@@ -1,7 +1,6 @@
 layout: page
 title: "links"
-permalink: /links/
+permalink: https://00101111.github.io/links/
 
-
-#Links
+# Links
 https://txmn.tk/
